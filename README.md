@@ -28,10 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eb-hernandez/eb-hernandez/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/eb-hernandez/count.svg?"  />
 </div>
