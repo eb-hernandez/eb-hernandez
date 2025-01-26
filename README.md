@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Oh hey! 👋 Thanks for stumbling in!</h1>
 
-<!--
-**eb-hernandez/eb-hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h4 align="left">My name is Ernest and I'm currently located in San Antonio, Texas USA. 👨‍💻</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="right">I am a first-year college student majoring in Cybersecurity. ✨ This is my very first Github account, created as part of an assignment for a course I'm taking this semester!</h2>
+
+###
+
+<h4 align="center">📚 This term, my learning will revolve around the following courses:  IT Security, Network Administration, Python Coding Fundamentals, and an Intro to Networking Hardware.<br><br>🌱 Watch me & my Github grow as new skills are developed and knowledgebase expands!</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/eb-hernandez/eb-hernandez/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/eb-hernandez/count.svg?"  />
+</div>
+
+###
