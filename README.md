@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="right">I am a first-year college student majoring in Cybersecurity. ✨ This is my very first Github account, created as part of an assignment for a course I'm taking this semester!</h2>
+<h2 align="right">I am a second-year college student majoring in Cybersecurity. ✨ This is my very first Github account, created as part of an assignment for a course I'm taking this semester!</h2>
 
 ###
 
