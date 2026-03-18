@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**eb-hernandez/eb-hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Ernest B. Hernandez**
+#### *Aspiring Information Security Architect*
 
-Here are some ideas to get you started:
+<br /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Directory
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <br />
+      <a href="https://eb-hernandez.github.io"><b>Home</b></a>
+      <p><i>Professional Bio</i></p>
+      <br />
+    </td>
+    <td align="center" width="200">
+      <br />
+      <a href="https://eb-hernandez.github.io/earnest-bits-n-bytes"><b>Portfolio</b></a>
+      <p><i>Labs & Projects</i></p>
+      <br />
+    </td>
+    <td align="center" width="200">
+      <br />
+      <a href="https://linkedin.com/in/hello-im-ernest"><b>Connect</b></a>
+      <p><i>LinkedIn</i></p>
+      <br />
+    </td>
+    <td align="center" width="200">
+      <br />
+      <a href="mailto:hello.im.ernest@gmail.com"><b>Email</b></a>
+      <p><i>Contact me</i></p>
+      <br />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+  ![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20ELK-blue?style=flat)
+  ![Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-Certified-brightgreen?style=flat)
+
+---
+
+</div>
+
+<p align="right">
+  <sub>v1.1 | San Antonio, TX</sub>
+  <sub>Last updated: 18‑March‑2026</sub>
+</p>
