@@ -25,7 +25,7 @@ This site serves as the central navigation hub linking to my professional backgr
 
 ### ⚒️ Skills & Tools
 
-![Metasploit](https://img.shields.io/badge/metasploit-FFC709?style=for-the-badge&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/metasploit-FFC709?style=for-the-badge&logo=metasploit&logoColorwhite)
 ![Kali Linux](https://img.shields.io/badge/kalilinux-1736F5?style=for-the-badge&logo=kalilinux&logoColor=black)
 ![Framework](https://img.shields.io/badge/Framework-FFC709?style=for-the-badge&logo=framework&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1736F5?style=for-the-badge&logo=google&logoColor=black)<br>
@@ -37,7 +37,6 @@ This site serves as the central navigation hub linking to my professional backgr
 </div>
 
 ---
-
 <p align="center">
   <sub><i>This is an index; full content lives at the links above.</i></sub>
 </p>   
