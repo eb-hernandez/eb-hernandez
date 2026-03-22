@@ -25,14 +25,15 @@ This site serves as the central navigation hub linking to my professional backgr
 
 ### ⚒️ Skills & Tools
 
-![Metasploit](https://img.shields.io/badge/metasploit-FFC709?style=for-the-badge&logo=metasploit&logoColorwhite)
-![Kali Linux](https://img.shields.io/badge/kalilinux-1736F5?style=for-the-badge&logo=kalilinux&logoColor=black)
-![Framework](https://img.shields.io/badge/Framework-FFC709?style=for-the-badge&logo=framework&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1736F5?style=for-the-badge&logo=google&logoColor=black)<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-1736F5?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-FFC709?style=for-the-badge&logo=python&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-1736F5?style=for-the-badge&logo=fortinet&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-FFC709?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1736F5?style=for-the-badge&logo=google&logoColor=white&labelColor=1736F5)
+![Metasploit](https://img.shields.io/badge/Metasploit-FFC709?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=FFC709)
+![Network Security](https://img.shields.io/badge/Network_Security-1736F5?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=1736F5)
+![Wireshark](https://img.shields.io/badge/Wireshark-FFC709?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=FFC709)
+
+![Python](https://img.shields.io/badge/Python-FFC709?style=for-the-badge&logo=python&logoColor=white&labelColor=FFC709)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1736F5?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1736F5)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC709?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFC709)
+![Framework](https://img.shields.io/badge/Framework-1736F5?style=for-the-badge&logo=framework&logoColor=white&labelColor=1736F5)
 
 </div>
 
