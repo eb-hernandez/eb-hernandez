@@ -7,7 +7,7 @@
 <br><br>
 
 👋 Hi! My name is Ernest and welcome to my GitHub workspace!<br>
-This site serves as the central navigation hub linking to my professional background, my resume, and my contact information. For a glimpse into my technical development, explore my <img src="portfolio.png" width="12" alt="Cybersecurity shield icon"><strong> Cybersecurity Portfolio</strong>, which contains a curated collection of labs and projects that document my progression from foundational secure‑architecture principles to advanced specialization.
+This site serves as the central navigation hub linking to my professional background, my resume, and my contact information. For a glimpse into my technical development, explore my <img src="security.png" width="20" alt="Cybersecurity shield icon"><strong> Cybersecurity Portfolio</strong>, which contains a curated collection of labs and projects that document my progression from foundational secure‑architecture principles to advanced specialization.
 
 <br><br>
 
@@ -15,10 +15,10 @@ This site serves as the central navigation hub linking to my professional backgr
 
 <table>
   <tr>
-    <td align="center" width="200"><img src="home.png" width="25" alt="Home icon"><br><a href="https://eb-hernandez.github.io/"><i>Home</i></a></td>
-    <td align="center" width="200"><img src="portfolio.png" width="25" alt="Cybersecurity shield icon"><br><a href="https://eb-hernandez.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
-    <td align="center" width="200"><img src="LI-In-Bug.png" width="25" alt="LinkedIn logo"><br><a href="https://linkedin.com/in/hello-im-ernest"><i>Let's Connect!</i></a></td>
-    <td align="center" width="200"><img src="email.png" width="25" alt="Email icon"><br><a href="mailto:hello.im.ernest@gmail.com"><i>Email Me!</i></a></td>
+    <td align="center" width="200"><img src="home.png" width="50" alt="Home icon"><br><a href="https://eb-hernandez.github.io/"><i>Home</i></a></td>
+    <td align="center" width="200"><img src="security.png" width="50" alt="Cybersecurity shield icon"><br><a href="https://eb-hernandez.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
+    <td align="center" width="200"><img src="LI-In-Bug.png" width="60" alt="LinkedIn logo"><br><a href="https://linkedin.com/in/hello-im-ernest"><i>Let's Connect!</i></a></td>
+    <td align="center" width="200"><img src="email.png" width="50" alt="Email icon"><br><a href="mailto:hello.im.ernest@gmail.com"><i>Email Me!</i></a></td>
   </tr>
 </table><br>
 
@@ -31,7 +31,7 @@ This site serves as the central navigation hub linking to my professional backgr
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1736F5?style=for-the-badge&logo=google&logoColor=white&labelColor=1736F5)
 ![Wireshark](https://img.shields.io/badge/Wireshark-FFC709?style=for-the-badge&logo=wireshark&logoColor=black&labelColor=FFC709)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-1736F5?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1736F5)
-![Framework](https://img.shields.io/badge/Framework-FFC709?style=for-the-badge&logo=framework&logoColor=black&labelColor=FFC709)
+![Framework](https://img.shields.io/badge/NIST\OWASP-FFC709?style=for-the-badge&logo=framework&logoColor=black&labelColor=FFC709)
 
 </div><br>
 
