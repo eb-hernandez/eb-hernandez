@@ -1,13 +1,14 @@
 <div align="center">
 
-# Ernest B. Hernandez
-#### 🚀 <i>Aspiring Information Security Architect • Secure Systems Designer</i>
-#### Sophomore, Bachelor of Applied Technology in Cybersecurity at <a href="https://www.alamo.edu/spc/academics/programs/cybersecurity--information-technology/cybersecurity-bat/">St. Philip's College</a>
-#### 🎓 | Class of 2027 | 🎓
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00f9ff,50:1685f8,100:200589&section=header&text=Ernest+B.+Hernandez&fontAlign=68&fontAlignY=35&stroke=EBDF00&strokekWidth=5&fontSize=55&fontColor=FFC709&animation=fadeIn)<br>
+### 🚀 <i>Aspiring Information Security Architect • Secure Systems Designer</i><br>
+#### Sophomore, Bachelor of Applied Technology in Cybersecurity program<br>
+### 🎓 <a href="https://www.alamo.edu/spc/academics/programs/cybersecurity-information-technology/cybersecurity-bat/">St. Philip's College</a> •  Class of 2027 🎓 <br>
+
 <br><br>
 
-👋 Hi! My name is Ernest and welcome to my GitHub workspace!<br>
-This site serves as the central navigation hub linking to my professional background, my resume, and my contact information. For a glimpse into my technical development, explore my <img src="security.png" width="20" alt="Cybersecurity shield icon"><strong> Cybersecurity Portfolio</strong>, which contains a curated collection of labs and projects that document my progression from foundational secure‑architecture principles to advanced specialization.
+👋 Hi! My name is Ernest and welcome to my GitHub workspace!<br><br>
+Alongside my profile (where you're at) is a navigation hub that links to my professional background and contact information. Interested in a glimpse of my technical development? Check out my 🛡️<b><i>Cybersecurity Portfolio</i></b>, which contains a curated collection of labs and projects that document my progression from foundational secure‑architecture principles to advanced specialization.
 
 <br><br>
 
@@ -15,10 +16,10 @@ This site serves as the central navigation hub linking to my professional backgr
 
 <table>
   <tr>
-    <td align="center" width="200"><img src="home.png" width="50" alt="Home icon"><br><a href="https://eb-hernandez.github.io/"><i>Home</i></a></td>
-    <td align="center" width="200"><img src="security.png" width="50" alt="Cybersecurity shield icon"><br><a href="https://eb-hernandez.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
-    <td align="center" width="200"><img src="LI-In-Bug.png" width="60" alt="LinkedIn logo"><br><a href="https://linkedin.com/in/hello-im-ernest"><i>Let's Connect!</i></a></td>
-    <td align="center" width="200"><img src="email.png" width="50" alt="Email icon"><br><a href="mailto:hello.im.ernest@gmail.com"><i>Email Me!</i></a></td>
+    <td align="center" width="200"><img src="home.png" width="35" alt="Home icon"><br><a href="https://eb-hernandez.github.io/"><i>Home</i></a></td>
+    <td align="center" width="200"><img src="security.png" width="35" alt="Cybersecurity shield icon"><br><a href="https://eb-hernandez.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
+    <td align="center" width="200"><img src="LI-In-Bug.png" width="35" alt="LinkedIn logo"><br><a href="https://linkedin.com/in/hello-im-ernest"><i>Let's Connect!</i></a></td>
+    <td align="center" width="200"><img src="email.png" width="35" alt="Email icon"><br><a href="mailto:hello.im.ernest@gmail.com"><i>Email Me!</i></a></td>
   </tr>
 </table><br>
 
@@ -40,5 +41,5 @@ This site serves as the central navigation hub linking to my professional backgr
 <sub><i>This is an index; full content lives at the links above.</i></sub>
 </div>   
 <div align="right">
-<sub>v2.1 • Last updated: 22‑March‑2026</sub>
+<sub>v2.2 • Last updated: 23‑March‑2026</sub>
 </div>
