@@ -16,10 +16,10 @@ This site serves as the central navigation hub linking to my professional backgr
 
 <table>
   <tr>
-    <td align="center" width="150">🏡<br><a href="https://eb-hernandez.github.io/"><i>Home</i></a></td>
-    <td align="center" width="150">🛡️<br><a href="https://eb-hernandez.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
+    <td align="center" width="150"><img src="home.png" width="25" alt="Home icon"><br><a href="https://eb-hernandez.github.io/"><i>Home</i></a></td>
+    <td align="center" width="150"><img src="portfolio.png" width="25" alt="Cybersecurity shield icon"><br><a href="https://eb-hernandez.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
     <td align="center" width="150"><img src="LI-In-Bug.png" width="25" alt="LinkedIn logo"><br><a href="https://linkedin.com/in/hello-im-ernest"><i>Let's Connect!</i></a></td>
-    <td align="center" width="150">📧<br><a href="mailto:hello.im.ernest@gmail.com"><i>Email Me!</i></a></td>
+    <td align="center" width="150"><img src="email.png" width="25" alt="Email icon"><br><a href="mailto:hello.im.ernest@gmail.com"><i>Email Me!</i></a></td>
   </tr>
 </table><br>
 
