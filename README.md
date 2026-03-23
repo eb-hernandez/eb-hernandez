@@ -1,14 +1,14 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00f9ff,50:1685f8,100:200589&section=header&text=Ernest+B.+Hernandez&fontAlign=68&fontAlignY=35&stroke=EBDF00&strokekWidth=5&fontSize=55&fontColor=FFC709&animation=fadeIn)<br>
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00f9ff,50:1685f8,100:200589&section=header&text=Ernest+B.+Hernandez&fontAlign=62&fontAlignY=35&stroke=EBDF00&strokekWidth=5&fontSize=60&fontColor=FFC709&animation=fadeIn)<br>
   ### 🚀 <i>Aspiring Information Security Architect • Secure Systems Designer</i><br>
   #### Sophomore, Bachelor of Applied Technology in Cybersecurity program<br>
   ### 🎓  <a href="https://www.alamo.edu/spc/academics/programs/cybersecurity-information-technology/cybersecurity-bat/">St. Philip's College</a>  •  Class of 2027  🎓 <br>
 
   <br><br>
 
-  👋 Hi! My name is Ernest and welcome to my GitHub workspace!<br><br>
-  Alongside my profile (where you're at) is a navigation hub that links to my professional background and contact information. Interested in a glimpse of my technical development? Check out my 🛡️<b><i>Cybersecurity Portfolio</i></b>, which contains a curated collection of labs and projects that document my progression from foundational secure‑architecture principles to advanced specialization.
+  👋 Hi! My name is Ernest and welcome to my GitHub workspace!<br><br>You are here
+  You're currently in my profile page and navigation hib,Use this navigation hub to learn more about me ^ and exl,krexplore my professional background and contact info. Want to see my technical journey? Check out my 🛡️<a href="https://hello-im-ernest.github.io/earnest-bits-n-bytes/"><b><i>Cybersecurity Portfolio</i></b></a>, featuring curated labs and projects that trace my growth from foundational security principles to advanced specialization.
 
   <br><br>
 
@@ -37,6 +37,5 @@
   <br>
 
   ---
-  <sub><i>This is an index; full content lives at the links above.</i></sub>
+  <sub><i>This is an index; full content lives at the links above.</i></sub><div align="right"><sub>v 2.2  •  Last updated: 23‑March‑2026</sub></div>
 </div>   
-<div align="right"><sub>v 2.2 • Last updated: 23‑March‑2026</sub></div>
