@@ -17,7 +17,7 @@ This site serves as the central navigation hub linking to my professional backgr
   <tr>
     <td align="center" width="200"><img src="home.png" width="50" alt="Home icon"><br><a href="https://eb-hernandez.github.io/"><i>Home</i></a></td>
     <td align="center" width="200"><img src="security.png" width="50" alt="Cybersecurity shield icon"><br><a href="https://eb-hernandez.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
-    <td align="center" width="200"><img src="LI-In-Bug.png" width="60" alt="LinkedIn logo"><br><a href="https://linkedin.com/in/hello-im-ernest"><i>Let's Connect!</i></a></td>
+    <td align="center" width="200"><img src="LI-In-Bug.png" width="60" alt="LinkedIn logo"><br><a href="https://linkedin.com/in/hello-im-ernest"><i>Let's Connect!_</i></a></td>
     <td align="center" width="200"><img src="email.png" width="50" alt="Email icon"><br><a href="mailto:hello.im.ernest@gmail.com"><i>Email Me!</i></a></td>
   </tr>
 </table><br>
