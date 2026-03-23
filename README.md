@@ -16,8 +16,8 @@ Alongside my profile (where you're at) is a navigation hub that links to my prof
 
 <table>
   <tr>
-    <td align="center" width="200"><img src="home.png" width="35" alt="Home icon"><br><a href="https://eb-hernandez.github.io/"><i>Home</i></a></td>
-    <td align="center" width="200"><img src="security.png" width="35" alt="Cybersecurity shield icon"><br><a href="https://eb-hernandez.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
+    <td align="center" width="200"><img src="home.png" width="35" alt="Home icon"><br><a href="https://hello-im-ernest.github.io/"><i>Home</i></a></td>
+    <td align="center" width="200"><img src="security.png" width="35" alt="Cybersecurity shield icon"><br><a href="https://hello-im-ernest.github.io/earnest-bits-n-bytes/"><i>Portfolio</i></a></td>
     <td align="center" width="200"><img src="LI-In-Bug.png" width="35" alt="LinkedIn logo"><br><a href="https://linkedin.com/in/hello-im-ernest"><i>Let's Connect!</i></a></td>
     <td align="center" width="200"><img src="email.png" width="35" alt="Email icon"><br><a href="mailto:hello.im.ernest@gmail.com"><i>Email Me!</i></a></td>
   </tr>
