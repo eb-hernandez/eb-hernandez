@@ -28,7 +28,7 @@
   ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-070ff7?style=for-the-badge&logo=google&logoColor=white&labelColor=070ff7)
   ![Wireshark](https://img.shields.io/badge/Wireshark-e3c636?style=for-the-badge&logo=wireshark&logoColor=black&labelColor=e3c636)
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-070ff7?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=070ff7)
-  ![Framework](https://img.shields.io/badge/NIST\OWASP-e3c636?style=for-the-badge&logo=framework&logoColor=black&labelColor=e3c636)<br><br>
+  ![Framework](https://img.shields.io/badge/NIST/OWASP-e3c636?style=for-the-badge&logo=framework&logoColor=black&labelColor=e3c636)<br><br>
  
 </div> 
 
