@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&height=170&color=0:050152,100:070ff7&section=header&text=Ernest+B.+Hernandez&fontAlign=64&fontAlignY=40&fontSize=50&fontColor=e3c636&animation=fadeIn)
   ### 🚀 <i>Aspiring Information Security Architect • Secure Systems Designer</i><br>
-  #### Sophomore, Bachelor of Applied Technology in Cybersecurity program<br>
+  #### Junior, Bachelor of Applied Technology in Cybersecurity program<br>
   ### 🎓  <a href="https://www.alamo.edu/spc/academics/programs/cybersecurity-information-technology/cybersecurity-bat/">St. Philip's College</a>  •  Class of 2027  🎓 <br><br><br><br>
 
   👋 Hi! My name is Ernest and welcome to my GitHub profile! Feel free to explore using the links below.&nbsp; ⇩⇩⇩<br>
